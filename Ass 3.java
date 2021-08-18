@@ -1,8 +1,4 @@
 package com.google;
-/*
-Author : Sakshi
-code for calculate salary of employee
-* */
 public class Ass3 {
     public static void main(String[] args) {
         int avgOfThreeEmpInOneWeek=1000; //We have given that average salary of 3 employees in one week is 1000
