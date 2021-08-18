@@ -1,8 +1,5 @@
 package com.google;
-/*
-Author :sakshi
-code for extract year from date stored in string
-* */
+
 
 public class Ass2 {
     public static void main(String[] args) {
