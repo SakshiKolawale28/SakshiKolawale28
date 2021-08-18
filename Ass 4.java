@@ -1,6 +1,6 @@
 package com.google;
 /*
-Author :Vaibhavi
+Author :sakshi
 code for convert percentage to fraction
 * */
 
