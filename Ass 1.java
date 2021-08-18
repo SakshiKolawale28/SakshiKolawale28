@@ -1,8 +1,4 @@
 package com.google;
-/*
-Author :sakshi
-code for reverse a string
-* */
 
 public class Ass1 {
     public static void main(String[] args) {
