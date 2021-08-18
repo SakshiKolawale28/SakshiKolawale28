@@ -1,8 +1,5 @@
 package com.google;
-/*
-Author :sakshi
-code for convert percentage to fraction
-* */
+
 
 public class Ass4 {
     public static void main(String[] args) {
